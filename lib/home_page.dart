@@ -66,7 +66,6 @@ class _HomePageState extends State<HomePage> {
             Camera(),
             Chats(),
             Status(),
-            Calls(),
           ],
         ),
       ),
