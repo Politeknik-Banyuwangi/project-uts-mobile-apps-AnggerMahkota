@@ -413,7 +413,7 @@ class Chats extends StatelessWidget {
                 radius: 30,
               ),
               title: Text(
-                'Natasya',
+                'Aldot',
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               subtitle: Row(
@@ -439,7 +439,7 @@ class Chats extends StatelessWidget {
                 radius: 30,
               ),
               title: Text(
-                'Diah',
+                'Hendra',
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               subtitle: Row(
@@ -465,7 +465,7 @@ class Chats extends StatelessWidget {
                 radius: 30,
               ),
               title: Text(
-                'Sasa',
+                'Hery',
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               subtitle: Row(
