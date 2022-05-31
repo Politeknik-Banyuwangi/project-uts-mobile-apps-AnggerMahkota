@@ -38,7 +38,7 @@ class Chats extends StatelessWidget {
                   Text('Kamu Dimana?'),
                 ],
               ),
-              trailing: Text('18.00'),
+              trailing: Text('21.00'),
             ),
             SizedBox(
               height: 10,
@@ -64,7 +64,7 @@ class Chats extends StatelessWidget {
                   Text('Ayo keluar'),
                 ],
               ),
-              trailing: Text('18.00'),
+              trailing: Text('11.10'),
             ),
             SizedBox(
               height: 10,
@@ -90,7 +90,7 @@ class Chats extends StatelessWidget {
                   Text('Apa sudah selesai tugasnya ?'),
                 ],
               ),
-              trailing: Text('18.00'),
+              trailing: Text('15.20'),
             ),
             SizedBox(
               height: 10,
@@ -116,7 +116,7 @@ class Chats extends StatelessWidget {
                   Text('ayo jalan-jalan'),
                 ],
               ),
-              trailing: Text('18.00'),
+              trailing: Text('15.50'),
             ),
             SizedBox(
               height: 10,
@@ -220,7 +220,7 @@ class Chats extends StatelessWidget {
                   Text('Ayo mancing'),
                 ],
               ),
-              trailing: Text('18.00'),
+              trailing: Text('14.00'),
             ),
             SizedBox(
               height: 10,
@@ -246,7 +246,7 @@ class Chats extends StatelessWidget {
                   Text('Ayo Login'),
                 ],
               ),
-              trailing: Text('18.00'),
+              trailing: Text('00.00'),
             ),
             SizedBox(
               height: 10,
@@ -272,7 +272,7 @@ class Chats extends StatelessWidget {
                   Text('Sehat ?'),
                 ],
               ),
-              trailing: Text('18.00'),
+              trailing: Text('111.00'),
             ),
             SizedBox(
               height: 10,
@@ -298,7 +298,7 @@ class Chats extends StatelessWidget {
                   Text('Apa sibuk?'),
                 ],
               ),
-              trailing: Text('18.00'),
+              trailing: Text('07.00'),
             ),
             SizedBox(
               height: 10,
@@ -324,7 +324,7 @@ class Chats extends StatelessWidget {
                   Text('Main dota enggak ?'),
                 ],
               ),
-              trailing: Text('18.00'),
+              trailing: Text('12.00'),
             ),
             SizedBox(
               height: 10,
@@ -350,7 +350,7 @@ class Chats extends StatelessWidget {
                   Text('Sibuk ?'),
                 ],
               ),
-              trailing: Text('18.00'),
+              trailing: Text('16.00'),
             ),
             SizedBox(
               height: 10,
@@ -376,7 +376,7 @@ class Chats extends StatelessWidget {
                   Text('Lagi ngapain ?'),
                 ],
               ),
-              trailing: Text('18.00'),
+              trailing: Text('19.00'),
             ),
             SizedBox(
               height: 10,
@@ -402,7 +402,7 @@ class Chats extends StatelessWidget {
                   Text('Aku ingin jalan-jalan'),
                 ],
               ),
-              trailing: Text('18.00'),
+              trailing: Text('09.00'),
             ),
             SizedBox(
               height: 10,
@@ -454,7 +454,7 @@ class Chats extends StatelessWidget {
                   Text('Kuliah dimana?'),
                 ],
               ),
-              trailing: Text('18.00'),
+              trailing: Text('13.00'),
             ),
             SizedBox(
               height: 10,
@@ -480,7 +480,7 @@ class Chats extends StatelessWidget {
                   Text('Tadi aku bertemu kamu '),
                 ],
               ),
-              trailing: Text('18.00'),
+              trailing: Text('21.00'),
             ),
             SizedBox(
               height: 10,
@@ -506,7 +506,7 @@ class Chats extends StatelessWidget {
                   Text('Udah lama gak bertemu kita'),
                 ],
               ),
-              trailing: Text('18.00'),
+              trailing: Text('19.00'),
             ),
             SizedBox(
               height: 10,
@@ -558,7 +558,7 @@ class Chats extends StatelessWidget {
                   Text('Kemana aja lu'),
                 ],
               ),
-              trailing: Text('18.00'),
+              trailing: Text('14.00'),
             ),
           ],
         ),
