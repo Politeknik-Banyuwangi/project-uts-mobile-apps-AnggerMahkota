@@ -477,7 +477,7 @@ class Chats extends StatelessWidget {
                   SizedBox(
                     width: 3.0,
                   ),
-                  Text('Tadi aku bertemu kamu dijalan'),
+                  Text('Tadi aku bertemu kamu '),
                 ],
               ),
               trailing: Text('18.00'),
