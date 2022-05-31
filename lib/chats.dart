@@ -40,10 +40,6 @@ class Chats extends StatelessWidget {
               ),
               trailing: Text('18.00'),
             ),
-          ],
-        ),
-        child: ListView(
-          children: [
             SizedBox(
               height: 10,
             ),
