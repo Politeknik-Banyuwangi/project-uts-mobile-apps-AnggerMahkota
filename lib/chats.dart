@@ -23,7 +23,7 @@ class Chats extends StatelessWidget {
                 radius: 30,
               ),
               title: Text(
-                'Indah Dwi',
+                'Ossi Aldi',
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               subtitle: Row(
@@ -35,7 +35,7 @@ class Chats extends StatelessWidget {
                   SizedBox(
                     width: 3.0,
                   ),
-                  Text('Bagaimana kabar Anda?'),
+                  Text('Kamu Dimana?'),
                 ],
               ),
               trailing: Text('18.00'),
@@ -49,7 +49,7 @@ class Chats extends StatelessWidget {
                 radius: 30,
               ),
               title: Text(
-                'Indah Dwi',
+                'Kepo',
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               subtitle: Row(
@@ -61,7 +61,7 @@ class Chats extends StatelessWidget {
                   SizedBox(
                     width: 3.0,
                   ),
-                  Text('Bagaimana kabar Anda?'),
+                  Text('Ayo keluar'),
                 ],
               ),
               trailing: Text('18.00'),
@@ -75,7 +75,7 @@ class Chats extends StatelessWidget {
                 radius: 30,
               ),
               title: Text(
-                'Indah Dwi',
+                'Dimas',
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               subtitle: Row(
@@ -87,7 +87,7 @@ class Chats extends StatelessWidget {
                   SizedBox(
                     width: 3.0,
                   ),
-                  Text('Bagaimana kabar Anda?'),
+                  Text('Apa sudah selesai tugasnya ?'),
                 ],
               ),
               trailing: Text('18.00'),
@@ -101,7 +101,7 @@ class Chats extends StatelessWidget {
                 radius: 30,
               ),
               title: Text(
-                'Indah Dwi',
+                'Obleng',
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               subtitle: Row(
@@ -113,7 +113,7 @@ class Chats extends StatelessWidget {
                   SizedBox(
                     width: 3.0,
                   ),
-                  Text('Bagaimana kabar Anda?'),
+                  Text('ayo jalan-jalan'),
                 ],
               ),
               trailing: Text('18.00'),
@@ -127,7 +127,7 @@ class Chats extends StatelessWidget {
                 radius: 30,
               ),
               title: Text(
-                'Indah Dwi',
+                'Siwel',
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               subtitle: Row(
@@ -139,7 +139,85 @@ class Chats extends StatelessWidget {
                   SizedBox(
                     width: 3.0,
                   ),
-                  Text('Bagaimana kabar Anda?'),
+                  Text('Selamat Pagi'),
+                ],
+              ),
+              trailing: Text('06.00'),
+            ),
+            SizedBox(
+              height: 10,
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/QNW9bbPP/nail-art-lucu-dari-bunga-bunga-kering-yang-terlihat-manja-Mye-KMRr-W1k.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Goter',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Selamat Sore'),
+                ],
+              ),
+              trailing: Text('15.00'),
+            ),
+            SizedBox(
+              height: 10,
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/QNW9bbPP/nail-art-lucu-dari-bunga-bunga-kering-yang-terlihat-manja-Mye-KMRr-W1k.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'aji',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Selamat Siang'),
+                ],
+              ),
+              trailing: Text('12.00'),
+            ),
+            SizedBox(
+              height: 10,
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/QNW9bbPP/nail-art-lucu-dari-bunga-bunga-kering-yang-terlihat-manja-Mye-KMRr-W1k.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Rudi',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Ayo mancing'),
                 ],
               ),
               trailing: Text('18.00'),
@@ -153,7 +231,7 @@ class Chats extends StatelessWidget {
                 radius: 30,
               ),
               title: Text(
-                'Indah Dwi',
+                'Gaplek',
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               subtitle: Row(
@@ -165,7 +243,7 @@ class Chats extends StatelessWidget {
                   SizedBox(
                     width: 3.0,
                   ),
-                  Text('Bagaimana kabar Anda?'),
+                  Text('Ayo Login'),
                 ],
               ),
               trailing: Text('18.00'),
@@ -179,7 +257,7 @@ class Chats extends StatelessWidget {
                 radius: 30,
               ),
               title: Text(
-                'Indah Dwi',
+                'Opik',
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               subtitle: Row(
@@ -191,7 +269,7 @@ class Chats extends StatelessWidget {
                   SizedBox(
                     width: 3.0,
                   ),
-                  Text('Bagaimana kabar Anda?'),
+                  Text('Sehat ?'),
                 ],
               ),
               trailing: Text('18.00'),
@@ -205,7 +283,7 @@ class Chats extends StatelessWidget {
                 radius: 30,
               ),
               title: Text(
-                'Indah Dwi',
+                'Budiman',
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               subtitle: Row(
@@ -217,85 +295,7 @@ class Chats extends StatelessWidget {
                   SizedBox(
                     width: 3.0,
                   ),
-                  Text('Bagaimana kabar Anda?'),
-                ],
-              ),
-              trailing: Text('18.00'),
-            ),
-            SizedBox(
-              height: 10,
-            ),
-            ListTile(
-              leading: CircleAvatar(
-                backgroundImage: NetworkImage("https://i.postimg.cc/QNW9bbPP/nail-art-lucu-dari-bunga-bunga-kering-yang-terlihat-manja-Mye-KMRr-W1k.jpg"),
-                radius: 30,
-              ),
-              title: Text(
-                'Indah Dwi',
-                style: TextStyle(fontWeight: FontWeight.bold),
-              ),
-              subtitle: Row(
-                children: [
-                  Icon(
-                    Icons.done_all_rounded,
-                    color: Colors.blue,
-                  ),
-                  SizedBox(
-                    width: 3.0,
-                  ),
-                  Text('Bagaimana kabar Anda?'),
-                ],
-              ),
-              trailing: Text('18.00'),
-            ),
-            SizedBox(
-              height: 10,
-            ),
-            ListTile(
-              leading: CircleAvatar(
-                backgroundImage: NetworkImage("https://i.postimg.cc/QNW9bbPP/nail-art-lucu-dari-bunga-bunga-kering-yang-terlihat-manja-Mye-KMRr-W1k.jpg"),
-                radius: 30,
-              ),
-              title: Text(
-                'Indah Dwi',
-                style: TextStyle(fontWeight: FontWeight.bold),
-              ),
-              subtitle: Row(
-                children: [
-                  Icon(
-                    Icons.done_all_rounded,
-                    color: Colors.blue,
-                  ),
-                  SizedBox(
-                    width: 3.0,
-                  ),
-                  Text('Bagaimana kabar Anda?'),
-                ],
-              ),
-              trailing: Text('18.00'),
-            ),
-            SizedBox(
-              height: 10,
-            ),
-            ListTile(
-              leading: CircleAvatar(
-                backgroundImage: NetworkImage("https://i.postimg.cc/QNW9bbPP/nail-art-lucu-dari-bunga-bunga-kering-yang-terlihat-manja-Mye-KMRr-W1k.jpg"),
-                radius: 30,
-              ),
-              title: Text(
-                'Indah Dwi',
-                style: TextStyle(fontWeight: FontWeight.bold),
-              ),
-              subtitle: Row(
-                children: [
-                  Icon(
-                    Icons.done_all_rounded,
-                    color: Colors.blue,
-                  ),
-                  SizedBox(
-                    width: 3.0,
-                  ),
-                  Text('Bagaimana kabar Anda?'),
+                  Text('Apa sibuk?'),
                 ],
               ),
               trailing: Text('18.00'),
