@@ -3,19 +3,6 @@ import 'package:flutter/material.dart';
 
 class Chats extends StatelessWidget {
   const Chats({Key? key}) : super(key: key);
-  Widget getChats(title, subTitle) {
-    return ListTile(
-      leading: CircleAvatar(
-        backgroundImage: NetworkImage("https://i0.wp.com/www.cirebonkota.go.id/wp-content/uploads/2018/05/jokowi.jpg"),
-        radius: 30,
-      ),
-      title: Text(
-        title,
-        style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
-      ),
-      subtitle: Text(subTitle),
-    );
-  }
 
   @override
   Widget build(BuildContext context) {
@@ -27,28 +14,31 @@ class Chats extends StatelessWidget {
         },
         child: ListView(
           children: [
-            getChats("Ayang", "Selamat pagi :)"),
-            getChats("Ronaldo", "Today, 2:8 pm"),
-            getChats("Moh salah", "6 minutes ago"),
-            getChats("Rossi", "25 minutes ago"),
-            getChats("Torres", "Yestrday, 8:45 pm"),
-            getChats("Omar Hassan", "Yestrday, 5:5 Am"),
-            getChats("Sasuke", "Just now"),
-            getChats("Ronaldo", "Today, 2:8 pm"),
-            getChats("Moh salah", "6 minutes ago"),
-            getChats("Rossi", "25 minutes ago"),
-            getChats("Torres", "Yestrday, 8:45 pm"),
-            getChats("Omar Hassan", "Yestrday, 5:5 Am"),
-            getChats("Sasuke", "Just now"),
-            getChats("Ronaldo", "Today, 2:8 pm"),
-            getChats("Moh salah", "6 minutes ago"),
-            getChats("Rossi", "25 minutes ago"),
-            getChats("Torres", "Yestrday, 8:45 pm"),
-            getChats("Omar Hassan", "Yestrday, 5:5 Am"),
-            getChats("Sasuke", "Just now"),
-            getChats("Ronaldo", "Today, 2:8 pm"),
             SizedBox(
               height: 10,
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/QNW9bbPP/nail-art-lucu-dari-bunga-bunga-kering-yang-terlihat-manja-Mye-KMRr-W1k.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Indah Dwi',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Bagaimana kabar Anda?'),
+                ],
+              ),
+              trailing: Text('18.00'),
             ),
           ],
         ),
