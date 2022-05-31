@@ -300,6 +300,266 @@ class Chats extends StatelessWidget {
               ),
               trailing: Text('18.00'),
             ),
+            SizedBox(
+              height: 10,
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/QNW9bbPP/nail-art-lucu-dari-bunga-bunga-kering-yang-terlihat-manja-Mye-KMRr-W1k.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Agel',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Main dota enggak ?'),
+                ],
+              ),
+              trailing: Text('18.00'),
+            ),
+            SizedBox(
+              height: 10,
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/QNW9bbPP/nail-art-lucu-dari-bunga-bunga-kering-yang-terlihat-manja-Mye-KMRr-W1k.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Elok',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Sibuk ?'),
+                ],
+              ),
+              trailing: Text('18.00'),
+            ),
+            SizedBox(
+              height: 10,
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/QNW9bbPP/nail-art-lucu-dari-bunga-bunga-kering-yang-terlihat-manja-Mye-KMRr-W1k.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Fathimatul',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Lagi ngapain ?'),
+                ],
+              ),
+              trailing: Text('18.00'),
+            ),
+            SizedBox(
+              height: 10,
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/QNW9bbPP/nail-art-lucu-dari-bunga-bunga-kering-yang-terlihat-manja-Mye-KMRr-W1k.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Himmah',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Aku ingin jalan-jalan'),
+                ],
+              ),
+              trailing: Text('18.00'),
+            ),
+            SizedBox(
+              height: 10,
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/QNW9bbPP/nail-art-lucu-dari-bunga-bunga-kering-yang-terlihat-manja-Mye-KMRr-W1k.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Natasya',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Kerja dimana ?'),
+                ],
+              ),
+              trailing: Text('18.00'),
+            ),
+            SizedBox(
+              height: 10,
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/QNW9bbPP/nail-art-lucu-dari-bunga-bunga-kering-yang-terlihat-manja-Mye-KMRr-W1k.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Diah',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Kuliah dimana?'),
+                ],
+              ),
+              trailing: Text('18.00'),
+            ),
+            SizedBox(
+              height: 10,
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/QNW9bbPP/nail-art-lucu-dari-bunga-bunga-kering-yang-terlihat-manja-Mye-KMRr-W1k.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Sasa',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Tadi aku bertemu kamu dijalan'),
+                ],
+              ),
+              trailing: Text('18.00'),
+            ),
+            SizedBox(
+              height: 10,
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/QNW9bbPP/nail-art-lucu-dari-bunga-bunga-kering-yang-terlihat-manja-Mye-KMRr-W1k.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Regita',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Udah lama gak bertemu kita'),
+                ],
+              ),
+              trailing: Text('18.00'),
+            ),
+            SizedBox(
+              height: 10,
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/QNW9bbPP/nail-art-lucu-dari-bunga-bunga-kering-yang-terlihat-manja-Mye-KMRr-W1k.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Putri',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Sibuk ngapain sekarang ?'),
+                ],
+              ),
+              trailing: Text('18.00'),
+            ),
+            SizedBox(
+              height: 10,
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/QNW9bbPP/nail-art-lucu-dari-bunga-bunga-kering-yang-terlihat-manja-Mye-KMRr-W1k.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Aditiya',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Kemana aja lu'),
+                ],
+              ),
+              trailing: Text('18.00'),
+            ),
           ],
         ),
       ),
